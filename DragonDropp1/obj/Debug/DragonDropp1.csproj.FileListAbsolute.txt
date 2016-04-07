@@ -1,0 +1,9 @@
+C:\Users\skrap\OneDrive\GitHub\DragonDropp1\DragonDropp1\bin\Debug\DragonDropp1.exe.config
+C:\Users\skrap\OneDrive\GitHub\DragonDropp1\DragonDropp1\bin\Debug\DragonDropp1.exe
+C:\Users\skrap\OneDrive\GitHub\DragonDropp1\DragonDropp1\bin\Debug\DragonDropp1.pdb
+C:\Users\skrap\OneDrive\GitHub\DragonDropp1\DragonDropp1\obj\Debug\DragonDropp1.csprojResolveAssemblyReference.cache
+C:\Users\skrap\OneDrive\GitHub\DragonDropp1\DragonDropp1\obj\Debug\DragonDropp1.Form1.resources
+C:\Users\skrap\OneDrive\GitHub\DragonDropp1\DragonDropp1\obj\Debug\DragonDropp1.Properties.Resources.resources
+C:\Users\skrap\OneDrive\GitHub\DragonDropp1\DragonDropp1\obj\Debug\DragonDropp1.csproj.GenerateResource.Cache
+C:\Users\skrap\OneDrive\GitHub\DragonDropp1\DragonDropp1\obj\Debug\DragonDropp1.exe
+C:\Users\skrap\OneDrive\GitHub\DragonDropp1\DragonDropp1\obj\Debug\DragonDropp1.pdb
