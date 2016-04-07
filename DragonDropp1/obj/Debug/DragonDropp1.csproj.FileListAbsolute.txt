@@ -7,3 +7,6 @@ C:\Users\skrap\OneDrive\GitHub\DragonDropp1\DragonDropp1\obj\Debug\DragonDropp1.
 C:\Users\skrap\OneDrive\GitHub\DragonDropp1\DragonDropp1\obj\Debug\DragonDropp1.csproj.GenerateResource.Cache
 C:\Users\skrap\OneDrive\GitHub\DragonDropp1\DragonDropp1\obj\Debug\DragonDropp1.exe
 C:\Users\skrap\OneDrive\GitHub\DragonDropp1\DragonDropp1\obj\Debug\DragonDropp1.pdb
+C:\Users\cbn\Documents\git-repo\daniel\DragonDropp1\DragonDropp1\bin\Debug\DragonDropp1.exe.config
+C:\Users\cbn\Documents\git-repo\daniel\DragonDropp1\DragonDropp1\obj\Debug\DragonDropp1.exe
+C:\Users\cbn\Documents\git-repo\daniel\DragonDropp1\DragonDropp1\obj\Debug\DragonDropp1.pdb
